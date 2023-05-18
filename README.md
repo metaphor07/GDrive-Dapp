@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# GDrive-Dapp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+In this project we are uploading image on ipfs using pinata and store the images url in our contract. and we can give access to the anoter user of my data
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+![2023-05-18](https://github.com/metaphor07/GDrive-Dapp/assets/93358507/e221816c-23cb-43dc-ae53-54d94d430e0d)
